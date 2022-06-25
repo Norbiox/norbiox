@@ -1,11 +1,10 @@
-### Welcome to my profile! 👋
+### Hi! 👋
 
-I am a Pythonista from Poland
+I am a Pythonista from Poland. 
 
 - 🔭 I have no open source project currently in progress but... 
 - 👯 I would gladly cooperate on some fun project involving Python so...
 - 💬 don't hesitate to ask me for help!
-
 
 <!-- <br> -->
 <!-- ## Connect with me -->

@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hey y'all! 👋🤠
 
 I am a Pythonista from Poland. 
 

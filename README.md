@@ -1,10 +1,4 @@
-## Hey y'all! 👋🤠
-
-I am a Pythonista from Poland.
-
-- 🔭 I have no project currently in progress but... 
-- 👯 I would gladly cooperate on some so...
-- 💬 don't hesitate to ask me for help!
+## Hi! My name is Norbert. I am a software developer from Poland.
 
 
 ### Connect with me

@@ -1,8 +1,8 @@
 ## Hi! My name is Norbert. I am a software developer from Poland.
 
-- Python Developer in Onwelo Sp. z o.o.
-- Linux enthusiast, currently exploring NixOS
-- in love with DevOps culture and Agile Manifesto 
+- Python Developer
+- Linux enthusiast
+- in love with DevOps culture and Agile Manifesto
 
 ### Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/norbert-chmiel)

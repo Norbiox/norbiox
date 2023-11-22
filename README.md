@@ -24,7 +24,7 @@
 <br> -->
 
 ### My bookshelf
-https://github.com/Norbiox/bookshelf
+Right now in my notes, but I'm thinking on making them public
 
 <!--
 **Norbiox/norbiox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,8 +2,9 @@
 
 * 🐍 Pythonista
 * 🐧 Linux enthusiast
-* 🔧 DevOps
-* ☕ CoffeeGeek
+* 🏃 Agile manifesto follower
+* 🔧 DevOps at heart
+* ☕ CoffeeGeek!
 
 ### Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/norbert-chmiel)

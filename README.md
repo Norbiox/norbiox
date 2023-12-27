@@ -24,8 +24,11 @@
 <br>
 <br> -->
 
-### My bookshelf
-Right now in my notes, but I'm thinking on making them public
+### Currently into
+
+* learning how to fight legacy with DDD and design patterns
+* setting up my homelab (bit old schooley, but oh so fun)
+* my first mobile app in Flutter
 
 <!--
 **Norbiox/norbiox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

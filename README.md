@@ -26,7 +26,7 @@
 
 ### Currently into
 
-* learning how to fight legacy with DDD and design patterns
+* diving into Domain Driven Design
 * setting up my homelab (bit old schooley, but oh so fun)
 * my first mobile app in Flutter
 

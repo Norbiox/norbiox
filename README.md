@@ -24,12 +24,17 @@
 <br>
 <br> -->
 
+
 ### Currently into
 
-* diving into Domain Driven Design
+* diving into Domain Driven Design with [Domain Drivers](https://domaindrivers.pl)
 * setting up my homelab (bit old schooley, but oh so fun)
 * my first mobile app in Flutter
 
+
+### More about me
+
+* [Podcasts that I listen to](https://github.com/Norbiox/awesome-podcasts?tab=readme-ov-file#awesome-podcasts)
 <!--
 **Norbiox/norbiox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

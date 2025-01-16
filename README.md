@@ -2,7 +2,6 @@
 
 * 🐍 Pythonista
 * 🐧 Linux enthusiast
-* 🏃 Agile manifesto follower
 * 🔧 DevOps at heart
 * ☕ CoffeeGeek!
 
